@@ -1,3 +1,3 @@
-# CAVElab - Ghent University
+![Q-ForestLab](https://github.com/[cavelab-ugent]/QForestLab_logo.png?raw=true)
 
-At CAVElab, we study vegetation dynamics, carbon and water cycling of terrestrial ecosystems. CAVElab has a strong focus on tropical forest ecosystems, but a broad interest in all types of terrestrial ecosystems, including projects on temperate forests, drylands and urban ecosystems. Process-based vegetation modelling and 3D forest reconstructions are our core research tools, but the questions arising from the modelling work require dedicated field work activities. These fieldwork activities focus on (i) improving uncertain process descriptions within vegetation models and on data-poor regions like the Congo Basin; and (ii) lidar-based remote sensing.
+Q-ForestLab is a research lab at Ghent University (Belgium) studying the dynamics, ecology, biogeochemistry and water cycling of terrestrial ecosystems.
