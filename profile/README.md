@@ -31,6 +31,9 @@ Here, we host our public code, documentation and manuals.
 - [Build QSMs with TreeQSM V2.0](https://github.com/qforestlab/TreeQSM_v2.0)
 - [Build QSMs with RayCloudTools](https://github.com/qforestlab/raycloudtools)
 
+**Calculation of structural metrics**
+- [Individual Tree Structural Metrics - ITSMe](https://github.com/lmterryn/ITSMe)
+
 **Visualisation**
 - [Coloring tree point clouds with CloudCompare](https://github.com/qforestlab/color-tree-point-cloud-with-CloudCompare)
 
