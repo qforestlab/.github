@@ -24,7 +24,7 @@ Here, we host our public code, documentation and manuals.
 - [Leaf-wood segmentation with point wise deep learning networks](https://github.com/qforestlab/leaf-wood-segmentation-with-deep-learning)
 
 **Instance segmentation**
-- [Instance segmentation with RayCloudTools](https://github.com/qforestlab/raycloudtools)
+- [Instance segmentation with RayCloudTools](https://github.com/qforestlab/rayextract-manual)
 - [Instance segmentation with TLS2trees](https://github.com/qforestlab/TLSpipelineScripts)
 
 - [Benchmark evaluation of instance segmentation](https://github.com/qforestlab/TreeInstSegEval)
@@ -32,7 +32,7 @@ Here, we host our public code, documentation and manuals.
 
 **Quantitative structure modelling**
 - [Build QSMs with TreeQSM V2.0](https://github.com/qforestlab/TreeQSM_v2.0)
-- [Build QSMs with RayCloudTools](https://github.com/qforestlab/raycloudtools)
+- [Build QSMs with RayCloudTools](https://github.com/qforestlab/rayextract-manual)
 
 **Calculation of structural metrics**
 - [Individual Tree Structural Metrics - ITSMe](https://github.com/lmterryn/ITSMe)
