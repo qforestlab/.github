@@ -4,7 +4,7 @@
 
 Here, we host our public code, documentation and manuals. 
 
-## Fielwork preparation
+## Fieldwork preparation
 - [Make a grid with rover](https://github.com/qforestlab/rover_grid)
 
 ## Point cloud processing of laser scanning data of forests and trees
