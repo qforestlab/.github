@@ -40,3 +40,8 @@ Here, we host our public code, documentation and manuals.
 **Visualisation**
 - [Coloring tree point clouds with CloudCompare](https://github.com/qforestlab/color-tree-point-cloud-with-CloudCompare)
 
+## GEDI processing
+
+**Tutorials GEDI**
+- [Tutorial GEDI practical Advanced Remote Sensing](https://github.com/qforestlab/ARS_GEDI_course)
+
