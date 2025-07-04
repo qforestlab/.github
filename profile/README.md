@@ -29,6 +29,7 @@ Here, we host our public code, documentation and manuals.
 
 - [Benchmark evaluation of instance segmentation](https://github.com/qforestlab/TreeInstSegEval)
 - [Propagation of instance segmentation](https://github.com/qforestlab/treeseg_propagation)
+- [Manual for correction of instance segmentation in RiSCAN PRO](https://github.com/qforestlab/segmentation_correction/tree/main)
 
 **Quantitative structure modelling**
 - [Build QSMs with TreeQSM V2.0](https://github.com/qforestlab/TreeQSM_v2.0)
