@@ -57,3 +57,4 @@ Here, we host our public code, documentation and manuals.
 - [FATES](https://github.com/NGEET/fates)
 - [ED2](https://github.com/EDmodel/ED2)
 - [NOAH-MP](https://github.com/NCAR/noahmp)
+- [ForEdgeClim](https://github.com/qforestlab/ForEdgeClim)
