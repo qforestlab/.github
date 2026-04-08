@@ -17,7 +17,8 @@ Here, we host our public code, documentation and manuals.
 - [RiSCAN PRO](https://github.com/qforestlab/riscan-general)
 
 **Pylidar for RIEGL**
-- [Pylidar](https://github.com/armstonj/pylidar-tls-canopy)
+- [Pylidar-tls-canopy](https://github.com/qforestlab/pylidar-tls-canopy)
+- [Make profiles with Pylidar](https://github.com/qforestlab/profiles-with-pylidar)
 
 **Leaf-wood segmentation**
 - [Leaf-wood segmentation with GBSeparation](https://github.com/qforestlab/leaf-wood-segmentation-with-GBSeparation)
