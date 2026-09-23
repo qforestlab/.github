@@ -6,6 +6,7 @@ Here, we host our public code, documentation and manuals.
 
 ## Fieldwork preparation
 - [Make a grid with rover](https://github.com/qforestlab/rover_grid)
+- [Lascar EL-USB-2 microclimate logger](https://github.com/qforestlab/Microclimate_Lascar_EL_USB2)
 
 ## Point cloud processing of laser scanning data of forests and trees
 
